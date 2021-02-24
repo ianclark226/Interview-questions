@@ -2,7 +2,7 @@ function integerAt(x) {
 
 var sum = 0;
 
-for (i = 1; i <= x; i++) {
+for (var i = 1; i <= x; i++) {
     sum += i;
 
 }
